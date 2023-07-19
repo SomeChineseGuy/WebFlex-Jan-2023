@@ -2,9 +2,9 @@
 
 - [x] Rails Conversation
 - [x] MVC Review
-- [ ] Convention vs Configuration
-- [ ] Quickly build simple Rails app
-- [ ] API With Rails
+- [x] Convention vs Configuration
+- [x] Quickly build simple Rails app
+- [x] API With Rails
 
 ## Rails Conversation
 

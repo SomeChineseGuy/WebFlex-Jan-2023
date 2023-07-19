@@ -1,0 +1,18 @@
+
+.counterPage {
+  background: tomato;
+  color: white;
+}
+
+.counterContainer {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+}
+
+.counterBtn {
+  padding: 10px 20px;
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+}
